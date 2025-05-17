@@ -21,6 +21,10 @@ Multi-Layer Perceptron (MLP):
 Logistic Regression with Principal Component Analysis (PCA):
 - Compare performance trade-offs between dimensionality and accuracy
 
+Neural network:
+- data preprocessing
+- performance improvements from previous ml techniques
+
 ## Requirements
 python >= 3.6
 scikit-learn
